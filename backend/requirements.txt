@@ -1,0 +1,8 @@
+flask
+flask-cors
+ollama
+chromadb
+pymupdf
+python-docx
+beautifulsoup4
+requests
