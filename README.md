@@ -41,15 +41,9 @@ The MVP uses a locally hosted LLM through Ollama, allowing users to experiment w
 
 ## 2. Application Preview
 
-Add screenshots of your running application in the `docs/screenshots/` directory.
-
 | Application Component | Preview |
 |---|---|
-| Dashboard | ![Dashboard](docs/screenshots/dashboard.png) |
-| Document Upload | ![Document Upload](docs/screenshots/document-upload.png) |
-| AI Chat Interface | ![Chat Interface](docs/screenshots/chat-interface.png) |
-
-*Replace these images with actual application screenshots.*
+| Dashboard | ![Dashboard](https://github.com/abinesh007/MedRAG/blob/main/Screenshot%202026-09-24%20225440.png) |
 
 ---
 
